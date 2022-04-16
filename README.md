@@ -1,4 +1,4 @@
-# ktlam
+# ktlam2
 
 # :wave: The Basics of GitHub (CSCI3251 Project: Milestone 2)
 
